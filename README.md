@@ -1,4 +1,4 @@
-# phpCodigo
+# Model
 Código ejemplos de patrones de diseño php (Desarrollo basado en Modelos)
 -Estado del Clima
 
